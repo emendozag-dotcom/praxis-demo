@@ -1,4 +1,4 @@
-## Net Core Training
+## Net Core Praxis App
 
 - ##### Database setup
   
